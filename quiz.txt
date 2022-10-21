@@ -1,0 +1,25 @@
+****TECHNOLOGY QUIZ QUESTIONS****
+
+q1: The Technologies TMO, VAR, Hawk-eye and Cyclope feature in ?
+option1: Traffic
+option2: WarFare
+option3: Sports
+option4: Surgery
+
+q2: Widely used in Africa, Opera mini is what sort of innovation?
+option1: Crop Irrigation
+option2: School singing
+option3: Electric kit-car
+option4: Mobile Web Browser
+
+q3: Roughly how many years ago was fire-making technology devised?
+option1: 10,000yrs ago
+option2: 50,000yrs ago
+option3: 100,000yrs ago
+option4: 500,000yrs ago
+
+q4: What now attracts bigger viewing audiences than soccer?
+option1: Cricket
+option2: Basketball
+option3: American football
+option4: Computer Gaming
